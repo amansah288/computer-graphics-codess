@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1633257372 source:c:\users\user\onedrive\desktop\aman\midpoint ellips\main.cpp
+	<iostream>
+	<conio.h>
+	<graphics.h>
+	<math.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1638198136 source:c:\users\user\onedrive\desktop\aman\transformation\main.cpp
+	<iostream>
+	<math.h>
+	<conio.h>
+	<graphics.h>
+
